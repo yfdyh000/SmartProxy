@@ -29,3 +29,5 @@ rules:
   no-unused-vars: 1
   no-extra-semi: 1
   no-useless-escape: 1
+  prefer-arrow-callback: ["warn"]
+  prefer-spread: ["warn"]
